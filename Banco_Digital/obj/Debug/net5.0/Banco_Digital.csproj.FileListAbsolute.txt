@@ -1,0 +1,16 @@
+C:\Users\2880972113044\source\repos\Banco_Digital\Banco_Digital\bin\Debug\net5.0\Banco_Digital.exe
+C:\Users\2880972113044\source\repos\Banco_Digital\Banco_Digital\bin\Debug\net5.0\Banco_Digital.deps.json
+C:\Users\2880972113044\source\repos\Banco_Digital\Banco_Digital\bin\Debug\net5.0\Banco_Digital.runtimeconfig.json
+C:\Users\2880972113044\source\repos\Banco_Digital\Banco_Digital\bin\Debug\net5.0\Banco_Digital.runtimeconfig.dev.json
+C:\Users\2880972113044\source\repos\Banco_Digital\Banco_Digital\bin\Debug\net5.0\Banco_Digital.dll
+C:\Users\2880972113044\source\repos\Banco_Digital\Banco_Digital\bin\Debug\net5.0\Banco_Digital.pdb
+C:\Users\2880972113044\source\repos\Banco_Digital\Banco_Digital\obj\Debug\net5.0\Banco_Digital.csproj.AssemblyReference.cache
+C:\Users\2880972113044\source\repos\Banco_Digital\Banco_Digital\obj\Debug\net5.0\Banco_Digital.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2880972113044\source\repos\Banco_Digital\Banco_Digital\obj\Debug\net5.0\Banco_Digital.AssemblyInfoInputs.cache
+C:\Users\2880972113044\source\repos\Banco_Digital\Banco_Digital\obj\Debug\net5.0\Banco_Digital.AssemblyInfo.cs
+C:\Users\2880972113044\source\repos\Banco_Digital\Banco_Digital\obj\Debug\net5.0\Banco_Digital.csproj.CoreCompileInputs.cache
+C:\Users\2880972113044\source\repos\Banco_Digital\Banco_Digital\obj\Debug\net5.0\Banco_Digital.dll
+C:\Users\2880972113044\source\repos\Banco_Digital\Banco_Digital\obj\Debug\net5.0\refint\Banco_Digital.dll
+C:\Users\2880972113044\source\repos\Banco_Digital\Banco_Digital\obj\Debug\net5.0\Banco_Digital.pdb
+C:\Users\2880972113044\source\repos\Banco_Digital\Banco_Digital\obj\Debug\net5.0\Banco_Digital.genruntimeconfig.cache
+C:\Users\2880972113044\source\repos\Banco_Digital\Banco_Digital\obj\Debug\net5.0\ref\Banco_Digital.dll

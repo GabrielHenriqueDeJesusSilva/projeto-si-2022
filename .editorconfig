@@ -1,0 +1,7 @@
+﻿[*.cs]
+
+# IDE0027: Usar o corpo da expressão para acessadores
+csharp_style_expression_bodied_accessors = false
+
+# CA1305: Especificar IFormatProvider
+dotnet_diagnostic.CA1305.severity = silent
